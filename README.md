@@ -20,8 +20,8 @@
 <p><strong>Links to Other Sites</strong></p>
 <p>This Service does not contain links to other sites. </p>
 
-<p><strong>Children’s Privacy. Target audience.</strong></p>
-<p> This Service do address anyone. </p>
+<p><strong>Children’s Privacy. </strong></p>
+<p> Target audience is age 3+ </p>
 <p> This Service does not collect personal
     identifiable information from anyone.</p>
 <p> This Service does not contain violent material.</p> 
