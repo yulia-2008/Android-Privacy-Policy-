@@ -9,24 +9,22 @@
 
 <p><strong>Information Collection and Use</strong></p>
 <p>This Service does not collect The Personal Information of users. </p>
-<p>The app does use third party services that may collect information used to identify you. .
+<p>The app does not use third party services that may collect information used to identify you. .
 
 <p><strong>Cookies</strong></p>
 <p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
     These are sent to your browser from the website that you visit and are stored on your devices’s
     internal memory.</p>
-<p>>This Services does not uses these “cookies” explicitly.</p>
-
-<p><strong>Security</strong></p>
+<p>This Services does not uses these “cookies” explicitly.</p>
 
 <p><strong>Links to Other Sites</strong></p>
 <p>This Service does not contain links to other sites. </p>
 
 <p><strong>Children’s Privacy. Target audience.</strong></p>
-<p> This Services do address anyone. </p>
+<p> This Service do address anyone. </p>
 <p> This Service does not collect personal
     identifiable information from anyone.</p>
-<p> This Services does not contain violent material.</p> 
+<p> This Service does not contain violent material.</p> 
 <p> This Service does not focus on promoting items or activities that are typically age-restricted such as cigarettes, alcohol, firearms, or gambling. </p>
 <p> This service does not share the user's current physical location. </p>
 
